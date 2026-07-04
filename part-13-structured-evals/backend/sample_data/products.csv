@@ -1,0 +1,13 @@
+product_id,name,category,unit_price
+P01,Espresso,drinks,3.20
+P02,Latte,drinks,4.60
+P03,Cappuccino,drinks,4.40
+P04,Cold Brew,drinks,4.80
+P05,Mocha,drinks,5.10
+P06,Drip Coffee,drinks,2.80
+P07,Croissant,food,3.50
+P08,Banana Bread,food,3.90
+P09,Blueberry Muffin,food,3.60
+P10,House Blend Beans 250g,beans,12.50
+P11,Single Origin Beans 250g,beans,16.00
+P12,Beanline Mug,merch,14.00
